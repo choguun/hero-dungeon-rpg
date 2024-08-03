@@ -1,2 +1,2 @@
-# hero-dugeon-rpg
-hero-dugeon-rpg
+# hero-dungeon-rpg
+Hero Dungeon RPG
